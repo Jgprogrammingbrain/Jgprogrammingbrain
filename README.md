@@ -8,18 +8,19 @@
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd5c3N2cmx6ajR6YXM2eXRkMHZ1dGJjN2t0MzZ5aXc4eGF6czd5bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KLJ7SjfW6hOoaGm6eE/giphy.gif" width="35"> About Me
 ```YAML
 # Profile
-  role: "Technical Project Management"
-  location: "Singapore"
-  education: "BSc (Information Systems), major in Smart City Management"
-  domain_experience: 
-    - "B2B SaaS"
-    - "Loyalty CRM"
-    - "Software Point of Sale"
-  operating_style: 
-    - "Validate assumptions before building"
-    - "Ensure clear commercial value"
-    - "Build only what is needed"
-  focus: "A user-first approach while designing technical products that sales can sell"
+role: "Client-Facing Product Management"
+location: "Singapore"
+education: "BSc (Information Systems), Major in Smart City Management"
+domain_experience:
+  - "B2B SaaS"
+  - "Loyalty CRM"
+  - "Software Point of Sale"
+how_i_work:
+  - "Validate assumptions before building"
+  - "Ensure clear commercial value"
+  - "Build only what is needed"
+focus: "A user-first approach while designing technical products that sales can sell"
+open_to: "Product and Pre-Sales Roles"
 ```
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3A0NXFmaTJwaDR2aTBpOWZ2NXJxdDQ2dDVzbWp5bmZ3Z3RoYmJseSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/d3hGuic6x6e5mASmKR/giphy.gif" width="35"> Built With
@@ -39,7 +40,7 @@
 ### <img src="https://media.giphy.com/media/AvPlAQJ9DVERnuVHWx/giphy.gif" width="35"> Experience Highlights
 * Completed Google's Skills Ignition SG AI Challenge, a three-month training programme.
 * Served on the executive committee of SMU Toastmasters, a student-led club focused on developing public speaking and communication skills.
-* Spent 18 months as an undergraduate research assistant at SMU's Lee Kong Chian School of Business, supporting PhD thesis research in organisational behaviour and human resources.
+* Spent 18 months as an undergraduate research assistant at SMU's Lee Kong Chian School of Business, supporting multiple PhD thesis research projects in organisational behaviour and human resources.
 
 <!--
 **Jgprogrammingbrain/Jgprogrammingbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
