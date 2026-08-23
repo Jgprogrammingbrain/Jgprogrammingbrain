@@ -8,9 +8,10 @@
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd5c3N2cmx6ajR6YXM2eXRkMHZ1dGJjN2t0MzZ5aXc4eGF6czd5bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KLJ7SjfW6hOoaGm6eE/giphy.gif" width="35"> About Me
 ```YAML
 # Profile
-role: "Client-Facing Product Management"
-location: "Singapore"
-education: "BSc (Information Systems), Major in Smart City Management"
+name: "Jin Guang"
+based_in: "Singapore"
+focus: "Client-Facing Product Management"
+education: "Singapore Management University, BSc (Information Systems), Major in Smart City Management"
 domain_experience:
   - "B2B SaaS"
   - "Loyalty CRM"
@@ -19,7 +20,7 @@ how_i_work:
   - "Validate assumptions before building"
   - "Ensure clear commercial value"
   - "Build only what is needed"
-focus: "A user-first approach while designing technical products that sales can sell"
+north_star: "A user-first approach while designing technical products that sales can sell"
 open_to: "Product and Pre-Sales Roles"
 ```
 
