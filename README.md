@@ -20,7 +20,7 @@ how_i_work:
   - "Validate Assumptions Before Building"
   - "Ensure Clear Commercial Value"
   - "Build Only What Is Needed"
-north_star: "To Start in the User's Shoes, and End With a Solution Sales Can Close"
+north_star: "To Start in the User's Shoes, and End With a Solution Sales Can Close With"
 open_to: "Product and Pre-Sales Roles"
 ```
 
