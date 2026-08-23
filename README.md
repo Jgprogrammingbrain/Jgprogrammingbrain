@@ -76,7 +76,7 @@ A work-from-home management system with role-based access, built on a microservi
 ## <img src="https://media.giphy.com/media/AvPlAQJ9DVERnuVHWx/giphy.gif" width="35"> Side Quests
 * Completed Google's Skills Ignition SG AI Challenge, a three-month training programme on automating daily organisational processes using AI.
 * Served on the executive committee of SMU Toastmasters, a student-led club focused on developing public speaking and communication skills.
-* Spent an 18-month term as an undergraduate research assistant at SMU's Lee Kong Chian School of Business, supporting multiple PhD thesis research projects in organisational behaviour and human resources.
+* Took on an 18-month term as an undergraduate research assistant at SMU's Lee Kong Chian School of Business, supporting multiple PhD thesis research projects in organisational behaviour and human resources
 
 ## Get In Touch
 Drop by and say hi 👋 Always happy to connect with you on [LinkedIn.](https://www.linkedin.com/in/han-jin-guang/)
