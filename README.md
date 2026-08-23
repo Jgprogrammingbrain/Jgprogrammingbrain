@@ -38,9 +38,9 @@ open_to: "Product and Pre-Sales Roles"
 * [WFH Planning System](https://github.com/Jgprogrammingbrain/SPM-G2T8-DimSum) - A work-from-home management system with role-based access, built on a microservices architecture, covering application, approval, revocation, and schedule visibility across staff, managers, and HR.
 
 ### <img src="https://media.giphy.com/media/AvPlAQJ9DVERnuVHWx/giphy.gif" width="35"> Experience Highlights
-* Completed Google's Skills Ignition SG AI Challenge, a three-month training programme.
+* Completed Google's Skills Ignition SG AI Challenge, a three-month training programme on automating daily organisational processes using AI.
 * Served on the executive committee of SMU Toastmasters, a student-led club focused on developing public speaking and communication skills.
-* Spent 18 months as an undergraduate research assistant at SMU's Lee Kong Chian School of Business, supporting multiple PhD thesis research projects in organisational behaviour and human resources.
+* Spent an 18-month term as an undergraduate research assistant at SMU's Lee Kong Chian School of Business, supporting multiple PhD thesis research projects in organisational behaviour and human resources.
 
 <!--
 **Jgprogrammingbrain/Jgprogrammingbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
