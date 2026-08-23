@@ -45,7 +45,7 @@ A recommendation system that determines the optimal rate to offer merchants as a
 - Served as primary liaison with the industry partner, drawing on a prior working relationship, to shape scope and requirements for the project
 - Designed the high fidelity prototypes for all interfaces
 - Built the calculation modules for interchange and network fees
-- Acted as the team's subject matter expert, working with the backend AI team to interpret the data and select appropriate methodologies for the prediction engine
+- Acted as the team's subject matter expert, working with the backend and AI sub-teams to interpret the data and select appropriate methodologies for the prediction engine
 
 </details>
 
@@ -57,7 +57,7 @@ A physical prototype of a parking lot allocation system with interactive real-ti
 
 **My contribution:**
 - Acted as product manager, determining all functional requirements and designing preliminary mock-ups
-- Built the analytics dashboard (driver and operator views), integrating LTA's DataMall API to display real-time Singapore parking data on an interactive city map
+- Built the advanced analytics dashboard (driver and operator views), integrating LTA's DataMall API to display real-time parking lots’ availability data on an interactive city map of Singapore
 
 </details>
 
@@ -65,7 +65,7 @@ A physical prototype of a parking lot allocation system with interactive real-ti
 <summary><strong><a href="https://github.com/Jgprogrammingbrain/SPM-G2T8-DimSum">WFH Planning System</a></strong></summary>
 <br>
 
-A work-from-home management system with role-based access, built on a microservices architecture, covering application, approval, revocation, and schedule visibility across staff, managers, and HR.
+A work-from-home management system with role-based access, built on microservices architecture, covering application, approval, revocation, and schedule visibility across staff, managers, and HR.
 
 **My contribution:**
 - Served as scrum master, running sprint planning and managing the product backlog on Jira
