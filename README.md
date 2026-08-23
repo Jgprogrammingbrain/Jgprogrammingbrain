@@ -79,7 +79,7 @@ A work-from-home management system with role-based access, built on a microservi
 * Spent an 18-month term as an undergraduate research assistant at SMU's Lee Kong Chian School of Business, supporting multiple PhD thesis research projects in organisational behaviour and human resources.
 
 ## Get In Touch
-Drop by and say hi 👋 Always happy to connect with you on [LinkedIn](https://www.linkedin.com/in/han-jin-guang/).
+Drop by and say hi 👋 Always happy to connect with you on [LinkedIn.](https://www.linkedin.com/in/han-jin-guang/)
 
 <!--
 **Jgprogrammingbrain/Jgprogrammingbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
