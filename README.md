@@ -39,7 +39,7 @@ open_to: "Product and Pre-Sales Roles"
 <summary><strong><a href="https://github.com/Yattmeo/404_found_us">Rate Optimisation & Profit Prediction Tool For Payment Service Providers</a></strong></summary>
 <br>
 
-A recommendation system that determines the optimal rate to offer merchants as a payment service provider by calculating interchange fees, network fees, and expected margin, and forecasting transaction volumes to estimate processing costs. Built in consultation with an industry partner in the payment-acquiring space to address the losses incur on small-ticket transactions due to high fixed per-transaction fees
+A recommendation system that determines the optimal rate for a payment service provider to offer merchants by calculating interchange fees, network fees, and expected margins, to forecast transaction volumes and estimate processing costs. Built in consultation with an industry partner in the payment-acquiring space to address the problem of losses incurred on small-ticket transactions caused by high fixed per-transaction fees
 
 **My contribution:**
 - Served as primary liaison with the industry partner, drawing on a prior working relationship, to shape scope and requirements for the project
@@ -65,7 +65,7 @@ A physical prototype of a parking allocation system that allows internal combust
 <summary><strong><a href="https://github.com/Jgprogrammingbrain/SPM-G2T8-DimSum">WFH Planning System</a></strong></summary>
 <br>
 
-A work-from-home management system with role-based access, built on microservices architecture, covering application, approval, revocation, and schedule visibility across staff, managers, and HR.
+A work-from-home management system with role-based access, built on microservices architecture, covering application, approval, revocation, and schedule visibility across staff, managers, and HR
 
 **My contribution:**
 - Served as scrum master, running sprint planning and managing the product backlog on Jira
@@ -74,12 +74,25 @@ A work-from-home management system with role-based access, built on microservice
 </details>
 
 ## <img src="https://media.giphy.com/media/AvPlAQJ9DVERnuVHWx/giphy.gif" width="35"> Side Quests
-* Completed Google's Skills Ignition SG AI Challenge, a three-month training programme on automating daily organisational processes using AI.
-* Served on the executive committee of SMU Toastmasters, a student-led club focused on developing public speaking and communication skills.
+* Completed Google's Skills Ignition SG AI Challenge, a three-month training programme on automating daily organisational processes using AI
+* Served on the executive committee of SMU Toastmasters, a student-led club focused on developing public speaking and communication skills
 * Took on an 18-month term as an undergraduate research assistant at SMU's Lee Kong Chian School of Business, supporting multiple PhD thesis research projects in organisational behaviour and human resources
 
 ## Get In Touch
 Drop by and say hi 👋 Always happy to connect with you on [LinkedIn.](https://www.linkedin.com/in/han-jin-guang/)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Jgprogrammingbrain/Jgprogrammingbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
