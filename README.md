@@ -36,10 +36,10 @@ open_to: "Product and Pre-Sales Roles"
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWlwb3VzcGl4Y2N2N3FlcHQ4bGx0a3U1YW1teTNpNXZzOGVxbHAxeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lr1QZ7prMwwkqSSVLa/giphy.gif" width="35"> What I've Built
 
 <details>
-<summary><strong><a href="https://github.com/Yattmeo/404_found_us">Rate Quotation Tool</a></strong></summary>
+<summary><strong><a href="https://github.com/Yattmeo/404_found_us">Rate Optimisation & Profit Prediction Tool For Payment Service Providers</a></strong></summary>
 <br>
 
-A recommendation system that determines the optimal rate to offer merchants as a payment acquirer by calculating interchange fees, network fees, and expected margin, and forecasting transaction volumes to estimate processing costs. Built in consultation with an industry partner in the payment acquiring space.
+A recommendation system that determines the optimal rate to offer merchants as a payment service provider by calculating interchange fees, network fees, and expected margin, and forecasting transaction volumes to estimate processing costs. Built in consultation with an industry partner in the payment-acquiring space to address the losses incur on small-ticket transactions due to high fixed per-transaction fees
 
 **My contribution:**
 - Served as primary liaison with the industry partner, drawing on a prior working relationship, to shape scope and requirements for the project
@@ -53,7 +53,7 @@ A recommendation system that determines the optimal rate to offer merchants as a
 <summary><strong><a href="https://github.com/Jgprogrammingbrain/cs462---IoT-Car-Park-Lot-Allocation-Dashboard">Smart Parking Allocation System</a></strong></summary>
 <br>
 
-A physical prototype of a parking lot allocation system with interactive real-time dashboards updated via MQTT, designed to solve the real-world problem of underutilisation of EV parking lots posed by a partner NGO.
+A physical prototype of a parking allocation system that allows internal combustion engine (ICE) vehicles to temporarily occupy vacant EV charging bays and automatically recalls them when an EV requires the space. The system features interactive, real-time dashboards updated via MQTT, and addresses the problem of underutilisation of EV parking lots identified by a partner NGO
 
 **My contribution:**
 - Acted as product manager, determining all functional requirements and designing preliminary mock-ups
